@@ -1,30 +1,11 @@
-Manual de usuario del Sistema Informático de Contraloría Social
+Como armar un mueble
 
-El propósito de este manual es facilitar al usuario la operación de las diferentes pantallas de captura y consulta de la información que se administra en el Sistema Informático de Contraloría Social.
+ Instrucciones generales:
 
-1.- IMPLEMENTACIÓN DEL SISTEMA
-
-a) Requerimientos de hardware
-
-Contar con:
-– Computadora personal
-– Conexión a Internet
-
-b) Requerimientos de software
-
-Contar con:
-– Sistema Operativo Windows
-– Navegador de Internet (Internet Explorer, Firefox, Netscape u otro)
-– Permiso de acceso de parte de la Dirección General de Operación Regional y Contraloría Social (DGORCS) de la Secretaría de Función Pública.
-
-2.- INGRESANDO AL SISTEMA
-
-Dentro de su navegador, teclee la siguiente dirección electrónica:
-http://acceso.portaldeejemplo.gob.mx/sistema/
-Inmediatamente después, el sistema solicitará Usuario y Contraseña, datos que serán proporcionados por la DGORCS a los Enlaces de Contraloría Social.
-
- 
-
-
-
-Fuente: https://www.ejemplos.co/10-ejemplos-de-textos-instructivos/#ixzz6cpaWML6X
+    Lee todas las instrucciones y todos los comentarios antes de comenzar este proyecto.
+    Toma todas las precauciones necesarias para construir de forma inteligente y segura.
+    Trabaja en una superficie limpia y nivelada, libre de imperfecciones o desechos.
+    Recuerda tener el suficiente espacio para trabajar sin contratiempos.
+    Puedes trabajar sobre el piso colocando antes un cartón o periódicos, será mas fácil.
+    Siempre taladra previamente con broca para madera de 3mm las perforaciones guía en los puntos donde colocaras los tornillos.
+    Compra los materiales cortados y tapacanteados así ahorras tiempo y dinero. Dejo el enlace de la lista de corte para descargar y el formato de pedido, así lo imprimes y lo llevas a cualquier retail ó centro especialista en maderas de tu localidad, realizando tu compra con facilidad y rapidez.
